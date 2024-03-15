@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ky4lu/ky4lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**minjae26805/minjae26805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - 🎂 2001/07/27
+ - 🇰🇷 Korean
+ - 🐧 Linux User
